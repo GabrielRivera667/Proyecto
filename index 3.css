@@ -1,0 +1,12 @@
+.reporte-container {
+  padding: 20px;
+  text-align: center;
+}
+
+canvas {
+  max-width: 100%;
+  margin: auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
