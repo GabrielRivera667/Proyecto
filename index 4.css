@@ -1,0 +1,36 @@
+.bitacora-container {
+  max-width: 900px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #fdfdfd;
+  color: #333;
+}
+
+.bitacora-container h1,
+.bitacora-container h2 {
+  color: #005f99;
+}
+
+.bitacora-container ul {
+  list-style: disc inside;
+  margin-left: 20px;
+}
+
+.bitacora-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.bitacora-table th,
+.bitacora-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.bitacora-table th {
+  background-color: #e3f2fd;
+  font-weight: bold;
+}
